@@ -1,2 +1,3 @@
-# math-py
-Implementation of mathematical algorithms
+# handmath
+Handmade implementation of mathematical algorithms
+
